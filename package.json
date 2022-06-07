@@ -1,0 +1,16 @@
+{
+  "name": "animated-recycle-bin",
+  "version": "1.0.0",
+  "description": "动态回收站",
+  "main": "main.js",
+  "author": "legendQ118",
+  "scripts": {
+    "dev:electron": "electron ."
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "electron": "^19.0.3"
+  }
+}

@@ -1,0 +1,22 @@
+# application 的核心配置文件
+
+# 配置回收站图案
+anime:
+  # 默认回收站状态
+  default: 'pop-cat'
+  # 当有文件拖动时
+  hover: 'pop-cat'
+  # 是否会微微晃动
+  breathe: true
+# 配置底部位置
+bottom:
+  # 底部内容
+  content: 'PopCatRecycleBin'
+  # 文字颜色 ()
+  color: '#ffffff'
+  # 文字阴影
+  shadow: true
+  # 背景透明
+  transparent: false
+  # 背景颜色(透明时不生效)
+  backgroundColor: ''
